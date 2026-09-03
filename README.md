@@ -27,6 +27,7 @@ A local server is recommended because it more closely represents production asse
 ├── index.html       # Semantic page structure and portfolio content
 ├── style.css        # Design system, responsive layout, and animations
 ├── script.js        # Interactions, observers, canvas, and command palette
+├── favicon.svg      # Custom HR browser icon
 ├── background.txt   # Source of truth for professional and project details
 ├── plan.md          # Complete product and design specification
 └── README.md        # Project documentation
